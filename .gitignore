@@ -1,0 +1,9 @@
+build/
+model/
+esp32/build/
+esp32/sdkconfig
+esp32/sdkconfig.old
+host/needle_host
+__pycache__/
+*.o
+*.pyc
